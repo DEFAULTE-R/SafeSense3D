@@ -52,14 +52,7 @@ Risk states are classified using distance, time-to-collision (TTC), and the adap
 
 ---
 
-## Repository Structure
-simulation/ Core safety engine, sensor model, and simulation runner
-scenarios/ Test scenario definitions
-results/ Validation outputs and figures
-visualization/ Planned 3D digital-twin visualization
-docs/ Architecture and methodology notes
-presentation/ Pitch deck assets
----
+
 
 ## Running the Simulation
 
